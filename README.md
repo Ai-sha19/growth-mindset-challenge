@@ -11,13 +11,7 @@
 
 ## 🛠️ Installation
 
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/yourusername/growth-mindset-challenge.git
-   cd growth-mindset-challenge
-   ```
-
-2. **Create a Virtual Environment (Optional but Recommended)**
+**1. Create a Virtual Environment (Optional but Recommended)**
    ```sh
    python -m venv venv
    source venv/bin/activate  # On macOS/Linux
@@ -50,7 +44,4 @@ streamlit run app.py
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
-
-## 🤝 Contributing
-Pull requests are welcome! If you have suggestions, feel free to open an issue.
 
